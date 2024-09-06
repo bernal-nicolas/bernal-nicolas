@@ -8,7 +8,11 @@ I always aim to implement **agile methodologies** that promote collaboration and
 
 ## 📊 Most Used Technologies in my repositories
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernal-nicolas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernal-nicolas&layout=donut&theme=prussian&hide_border=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernal-nicolas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=bernal-nicolas&theme=nord&show_icons=true)
 
 ---
 
@@ -34,7 +38,7 @@ I always aim to implement **agile methodologies** that promote collaboration and
 
 ### 💾 **Databases**
 
-| **MySQL** | **MongoDB (Mongoose)** |
+| **MySQL** | **MongoDB** |
 |-----------|------------------------|
 | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  |
 
@@ -59,4 +63,4 @@ I always aim to implement **agile methodologies** that promote collaboration and
 - [LinkedIn](https://www.linkedin.com/in/bernalnicolas)  
 - [GitHub](https://github.com/bernal-nicolas)  
 
-**Website**: Under development 🚧
+**Website**: On development 🚧
