@@ -1,8 +1,8 @@
 # 👋 Hello! I'm Nicolás 😄
 
-**I am a software engineer with a experience in web development technologies, motivated and committed to continuous learning.**  
-I am constantly seeking new opportunities to enhance my skills and knowledge.  
-I always aim to implement **agile methodologies** that promote collaboration and optimize team results.
+**I'm a software engineer with a experience in web development technologies, motivated and committed to continuous learning.**  
+I'm constantly seeking new opportunities to enhance my skills and knowledge.  
+I always seek to implement **agile methodologies** that promote collaboration and optimize team results.
 
 ---
 
@@ -60,7 +60,7 @@ I always aim to implement **agile methodologies** that promote collaboration and
 
 ## 🌐 Social Media and Website
 
-- [LinkedIn](https://www.linkedin.com/in/bernalnicolas)  
-- [GitHub](https://github.com/bernal-nicolas)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernalnicolas)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bernal-nicolas)  
 
-**Website**: On development 🚧
+**Website**: Coming Soon 🚀
