@@ -6,7 +6,7 @@ I always seek to implement **agile methodologies** that promote collaboration an
 
 ---
 
-## 📊 Most Used Technologies in my repositories
+## 📊 Most Used Technologies
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernal-nicolas&layout=donut&theme=prussian&hide_border=true)
 
