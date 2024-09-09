@@ -1,8 +1,7 @@
 # 👋 Hello! I'm Nicolás 😄
 
-**I'm a software engineer with a experience in web development technologies, motivated and committed to continuous learning.**  
-I'm constantly seeking new opportunities to enhance my skills and knowledge.  
-I always seek to implement **agile methodologies** that promote collaboration and optimize team results.
+**I'm a software engineer with training in development technologies.**  
+Committed to continuous learning, I am always seeking to improve my skills and knowledge, as well as to implement **agile methodologies** that promote collaboration and optimize team results.
 
 ---
 
