@@ -5,7 +5,7 @@ Committed to continuous learning, I am always seeking to improve my skills and k
 
 ---
 
-## 📊📊📊📊📊📊
+## 📊 GitHub Activity Graphs
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernal-nicolas&layout=donut&theme=prussian&hide_border=true)
 
